@@ -105,7 +105,7 @@ fcldir	product_dir	job
 
 ####################################
 product         version
-lardata		v10_00_18
+lardata		v10_00_19
 libwda          v2_30_1
 cetmodules	v3_27_04	-	only_for_build
 end_product_list
@@ -167,6 +167,8 @@ c14:debug	c14:debug	-nq-
 c14:prof	c14:prof	-nq-
 e26:debug	e26:debug	-nq-
 e26:prof	e26:prof	-nq-
+e28:debug	e28:debug	-nq-
+e28:prof	e28:prof	-nq-
 end_qualifier_list
 ####################################
 
